@@ -47,6 +47,16 @@
 
 ---
 
+### 🚦 [CityFlow Traffic Simulation System](https://github.com/Perumal100/CityFlow-Traffic-Simulation)
+> Real-time multi-threaded traffic simulation with predictive analytics and adaptive signal control
+
+- **Stack:** Java 17 · Swing GUI · Docker · SQLite · Multi-threading
+- **Features:** 100 independent intersection threads · 10×10 city grid · Predictive congestion analytics (WMA) · Adaptive signal timing · 60 FPS live visualization · Green wave coordination
+- **Course:** CS6103 — Introduction to Java, NYU Tandon (Spring 2026)
+- **Team:** Perumal Marimuthu · Ashik John · Achyuthan Sivasankar
+
+---
+
 ### 🧠 [Batch Size & Neural Network Generalization — Causal Study](https://github.com/Perumal100/batch-size-generalization-causal-study)
 > Bayesian causal inference study on how batch size affects deep learning generalization
 
