@@ -52,7 +52,6 @@
 
 - **Stack:** Java 17 · Swing GUI · Docker · SQLite · Multi-threading
 - **Features:** 100 independent intersection threads · 10×10 city grid · Predictive congestion analytics (WMA) · Adaptive signal timing · 60 FPS live visualization · Green wave coordination
-- **Course:** CS6103 — Introduction to Java, NYU Tandon (Spring 2026)
 - **Team:** Perumal Marimuthu · Ashik John · Achyuthan Sivasankar
 
 ---
