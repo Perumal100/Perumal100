@@ -1,169 +1,182 @@
 <div align="center">
 
-# 👋 Hey, I'm Perumal Marimuthu
+# 👋 Hi, I'm Perumal Marimuthu
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=MS+in+Computer+Science+%40+NYU+Tandon;Aspiring+AI+Engineer+%F0%9F%A4%96;Big+Data+%7C+Machine+Learning+%7C+NLP;Building+Scalable+AI+Systems;Passionate+about+Distributed+Computing;Always+Learning+and+Building+%F0%9F%9A%80" />
+### MS in Computer Science @ NYU Tandon School of Engineering
 
-<br>
+Interested in **Artificial Intelligence, Machine Learning, Data Engineering, and Distributed Systems**.
 
-<img src="https://komarev.com/ghpvc/?username=Perumal100&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Perumal100?style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/Perumal100?style=for-the-badge&color=yellow" />
+I enjoy learning new technologies, building projects, and understanding how software and AI systems work in practice.
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-🎓 Master's Student in Computer Science at **NYU Tandon School of Engineering**
-
-💡 Passionate about **Artificial Intelligence**, **Big Data Engineering**, **NLP & LLM Applications**, **Distributed Systems**, and **Scalable AI Infrastructure**
-
-🚀 Building scalable AI-driven systems focused on analytics, automation, intelligent decision-making, and real-world impact
-
-🔥 Goal: Build world-class AI models and impactful AI products
+- 🎓 Master's student in Computer Science at **NYU Tandon School of Engineering**
+- 🤖 Interested in **AI/ML, NLP, LLM applications, and data systems**
+- 📊 Exploring **Big Data, distributed computing, and scalable applications**
+- 🔧 I like building projects to learn concepts through hands-on experience
+- 🌱 Currently improving my **software engineering, system design, and AI engineering** skills
 
 ---
 
-## 🔄 Rebuilding Journey
+## 🚀 Projects
 
-⚡ This GitHub profile is a rebuilt version of my earlier account and portfolio journey — currently rebuilding everything from scratch with a stronger focus on AI, Big Data Engineering, Distributed Systems, and Open Source Contributions.
+### 💼 Job Market Intelligence
 
-🚀 Consistently building projects, improving problem-solving skills, and developing production-level systems step by step.
+A data engineering project for collecting, processing, and analyzing job-market data.
 
-> *"Every expert was once a beginner who kept building."*
+**Technologies:** Python, Kafka, PySpark, Elasticsearch, HDFS, FastAPI, Docker
 
----
+**Focus:** Data ingestion, streaming, batch processing, analytics, and system monitoring.
 
-## 🚀 Featured Projects
-
-### 💼 [Job Market Intelligence — Big Data Pipeline](https://github.com/Perumal100/job-market-intelligence)
-> Production-grade Big Data analytics platform for real-time job market insights
-
-- **Stack:** Apache Kafka · PySpark · Elasticsearch · HDFS · FastAPI · Terraform · Ansible
-- **Features:** Real-time job data ingestion from LinkedIn & Indeed · Schema-validated streaming · Dead Letter Queue · Prometheus observability
-- **Scale:** Multi-environment infra (dev/stage/prod) · Spark batch analytics · Docker orchestration
+[View Project →](https://github.com/Perumal100/job-market-intelligence)
 
 ---
 
-### 🚦 [CityFlow Traffic Simulation System](https://github.com/Perumal100/CityFlow-Traffic-Simulation)
-> Real-time multi-threaded traffic simulation with predictive analytics and adaptive signal control
+### 🚦 CityFlow Traffic Simulation
 
-- **Stack:** Java 17 · Swing GUI · Docker · SQLite · Multi-threading
-- **Features:** 100 independent intersection threads · 10×10 city grid · Predictive congestion analytics (WMA) · Adaptive signal timing · 60 FPS live visualization · Green wave coordination
-- **Team:** Perumal Marimuthu · Ashik John · Achyuthan Sivasankar
+A Java-based traffic simulation project that models multiple intersections and explores traffic-flow optimization.
+
+**Technologies:** Java, Multithreading, Swing, SQLite, Docker
+
+**Highlights:**
+- 10×10 city grid
+- Multiple concurrent intersection simulations
+- Traffic congestion analysis
+- Adaptive traffic signal control
+- Real-time visualization
+
+**Team:** Perumal Marimuthu · Ashik John · Achyuthan Sivasankar
+
+[View Project →](https://github.com/Perumal100/CityFlow-Traffic-Simulation)
 
 ---
 
-### 🧠 [Batch Size & Neural Network Generalization — Causal Study](https://github.com/Perumal100/batch-size-generalization-causal-study)
-> Bayesian causal inference study on how batch size affects deep learning generalization
+### 🧠 Batch Size & Neural Network Generalization
 
-- **Stack:** TensorFlow/Keras · PyMC 5 · ArviZ · NumPy · Pandas · Matplotlib
-- **Method:** DAG-based causal model · Average Treatment Effect (ATE) · Bayesian regression
-- **Finding:** P(large batch → worse accuracy | data) = 0.998 — consistent with Keskar et al. (2017)
+A research-oriented project exploring the relationship between neural-network batch size and model generalization.
+
+**Technologies:** TensorFlow/Keras, PyMC, ArviZ, NumPy, Pandas, Matplotlib
+
+The project uses Bayesian analysis to study whether batch size has an effect on model performance.
+
+[View Project →](https://github.com/Perumal100/batch-size-generalization-causal-study)
 
 ---
 
-### 🔐 [Repy AB-File Reference Monitor](https://github.com/Perumal100/repy-ab-file-reference-monitor)
-> Security reference monitor in RepyV2 implementing atomic A/B file writes for crash-safe file state
+### 🔐 Repy AB-File Reference Monitor
 
-- **Stack:** Python · RepyV2 (Seattle Sandbox)
-- **Design:** Dual-file shadow protocol — writes to B, atomically commits to A on close
-- **Guarantee:** Files are never left in a partially-written or corrupted state
+An implementation of a reference monitor using RepyV2, focusing on safe file updates and maintaining consistent file state.
+
+**Technologies:** Python, RepyV2
+
+[View Project →](https://github.com/Perumal100/repy-ab-file-reference-monitor)
 
 ---
 
 ### 🤖 AI Life OS *(In Progress)*
-> AI-powered personal productivity and life management system
 
-- Intelligent task management · AI-based planning · Productivity analytics · Personal knowledge management
-
----
-
-### 🌾 IoT-Based Precision Agriculture Monitoring System
-> Smart agriculture solution using IoT sensors, ML, and automated irrigation
-
-- Precision farming · Sustainable agriculture · Environmental monitoring
+An experimental project exploring how AI can be used for personal task management, planning, and knowledge organization.
 
 ---
 
-### 📝 NLP-Based Automated Text Summarizer
-> Transformer-based abstractive text summarization using NLP pipelines and deep learning
+### 🌾 Precision Agriculture Monitoring
+
+An IoT and machine-learning based project exploring sensor-based agricultural monitoring and automated irrigation.
+
+---
+
+### 📝 NLP Text Summarizer
+
+A small NLP project exploring transformer-based abstractive text summarization.
 
 ---
 
 ## 🏆 Achievements
 
-| 🏅 Award | Event |
-|---|---|
-| Top 4 | IEEE Ideathon |
-| Top 5 Team | SRM Techno Hackathon |
-| Top 5 Team | Founder Club Hackathon |
-| Top 10 | IEI Coding Contest |
-| Research Presentation | Precision Agriculture & Sustainable Farming |
+- 🥇 **Top 4** — IEEE Ideathon
+- 🏆 **Top 5 Team** — SRM Techno Hackathon
+- 🏆 **Top 5 Team** — Founder Club Hackathon
+- 💻 **Top 10** — IEI Coding Contest
+- 🔬 **Research Presentation** — Precision Agriculture & Sustainable Farming
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technologies
+
+### Languages
+`Python` `Java` `C++` `JavaScript`
+
+### AI / ML
+`TensorFlow` `PyTorch` `scikit-learn` `Pandas` `NumPy`
+
+### Data & Backend
+`SQL` `PostgreSQL` `MongoDB` `FastAPI`
+
+### Data Engineering
+`Apache Spark` `Apache Kafka` `Hadoop`
+
+### Tools
+`Git` `Docker` `Linux`
+
+---
+
+## 📚 Currently Learning
+
+I'm currently focusing on strengthening my fundamentals and gaining more practical experience in:
+
+- Artificial Intelligence & Machine Learning
+- NLP & LLM applications
+- Data Engineering
+- Apache Spark & Kafka
+- Distributed Systems
+- Backend Development
+- System Design
+- Cloud & MLOps fundamentals
+
+---
+
+## 🔬 Areas of Interest
+
+`Artificial Intelligence` · `Machine Learning` · `NLP` · `LLMs` · `Data Engineering` · `Distributed Systems` · `Cloud Computing`
+
+---
+
+## 🤝 Open to
+
+- AI/ML projects
+- Research collaborations
+- Open-source projects
+- Data engineering projects
+- AI-powered applications
+
+---
+
+## 📫 Connect
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,fastapi,nodejs,mongodb,mysql,postgres,docker,git,linux,tensorflow,pytorch,hadoop" />
+
+<a href="mailto:perumal74300@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/perumal-marimuthu-378574221/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Perumal100">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-## 🧠 Areas of Interest
-
-`Artificial Intelligence` `Machine Learning` `Big Data Engineering` `NLP & LLM Applications` `Distributed Systems` `Cloud Computing` `Analytics Engineering` `Full Stack AI Applications` `MLOps & Scalable Systems`
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,fastapi,nodejs,mongodb,mysql,postgres,docker,git,linux,tensorflow,pytorch" />
-</div>
-
-📚 **Exploring:** Apache Spark & Kafka · Scalable Data Pipelines · AI Infrastructure · System Design · LLM Engineering · Cloud Deployment & MLOps
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Perumal100&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Perumal100&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Perumal100&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🤝 Looking to Collaborate On
-
-✅ AI/ML Projects &nbsp;&nbsp; ✅ Open Source Contributions &nbsp;&nbsp; ✅ Big Data Systems &nbsp;&nbsp; ✅ AI-Powered Applications &nbsp;&nbsp; ✅ Research & Innovation
-
----
-
-## 📫 Connect With Me
-
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perumal74300@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perumal-marimuthu-378574221/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perumal100)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ "Always learning. Always building. Always improving." ⭐
+⭐ **Learning, building, and improving one project at a time.**
 
 </div>
